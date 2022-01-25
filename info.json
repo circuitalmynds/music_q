@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1017.1095000000004,
+    "videos": [
         "Conflict - Increase The Pressure (1984)-AHXvMulXG3s.mp4",
         "The Silvertones - Cool Down.mp4",
         "Conjunto Primavera - Senti.mp4",
@@ -101,7 +102,5 @@
         "Sash!  - Ecuador (Official Video)-9cQlVww0zKo.mp4",
         "SOLO TU  ( Camilo Sesto - 1976 ) HD-eEtV_072RT8.mp4",
         "Querer y perder-NcI7Q92scoY.mp4"
-    ],
-    "id": "q",
-    "total_size": 969.9908847656247
+    ]
 }
