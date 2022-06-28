@@ -1,481 +1,577 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "Quiero Estar Loco-dPTPvbMXC1g.mp4",
-            "path": "music_q/videos/Quiero Estar Loco-dPTPvbMXC1g.mp4",
-            "size": 9.141868544000001
+            "path": "q/videos/Quiero Estar Loco-dPTPvbMXC1g.mp4",
+            "size": 9.141868544000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quiero Estar Loco-dPTPvbMXC1g.mp4?raw=true"
         },
         {
             "name": "Mijares - Uno Entre Mil-y6P195WoVfM.mp4",
-            "path": "music_q/videos/Mijares - Uno Entre Mil-y6P195WoVfM.mp4",
-            "size": 11.472482304000001
+            "path": "q/videos/Mijares - Uno Entre Mil-y6P195WoVfM.mp4",
+            "size": 11.472482304000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Mijares - Uno Entre Mil-y6P195WoVfM.mp4?raw=true"
         },
         {
             "name": "Que Se Me Acabe La Vida - Conjunto Azabache-2QO_CBm_0x0.mp4",
-            "path": "music_q/videos/Que Se Me Acabe La Vida - Conjunto Azabache-2QO_CBm_0x0.mp4",
-            "size": 11.98176768
+            "path": "q/videos/Que Se Me Acabe La Vida - Conjunto Azabache-2QO_CBm_0x0.mp4",
+            "size": 11.98176768,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Se Me Acabe La Vida - Conjunto Azabache-2QO_CBm_0x0.mp4?raw=true"
         },
         {
             "name": "Que corra la nicotina - Siniestro Total-5bdsCjUe1kM.mp4",
-            "path": "music_q/videos/Que corra la nicotina - Siniestro Total-5bdsCjUe1kM.mp4",
-            "size": 5.638060032
+            "path": "q/videos/Que corra la nicotina - Siniestro Total-5bdsCjUe1kM.mp4",
+            "size": 5.638060032,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que corra la nicotina - Siniestro Total-5bdsCjUe1kM.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Una Flor Para Mi Madre-CjTsz1YtyPg.mp4",
-            "path": "music_q/videos/Los Cadetes de Linares - Una Flor Para Mi Madre-CjTsz1YtyPg.mp4",
-            "size": 4.51264
+            "path": "q/videos/Los Cadetes de Linares - Una Flor Para Mi Madre-CjTsz1YtyPg.mp4",
+            "size": 4.51264,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Los Cadetes de Linares - Una Flor Para Mi Madre-CjTsz1YtyPg.mp4?raw=true"
         },
         {
             "name": "The Cranberries - Ode To My Family (Official Music Video)-Zz-DJr1Qs54.mp4",
-            "path": "music_q/videos/The Cranberries - Ode To My Family (Official Music Video)-Zz-DJr1Qs54.mp4",
-            "size": 16.55392768
+            "path": "q/videos/The Cranberries - Ode To My Family (Official Music Video)-Zz-DJr1Qs54.mp4",
+            "size": 16.55392768,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/The Cranberries - Ode To My Family (Official Music Video)-Zz-DJr1Qs54.mp4?raw=true"
         },
         {
             "name": "Queen - Crazy Little Thing Called Love (Official Video)-zO6D_BAuYCI.mp4",
-            "path": "music_q/videos/Queen - Crazy Little Thing Called Love (Official Video)-zO6D_BAuYCI.mp4",
-            "size": 13.737976832000001
+            "path": "q/videos/Queen - Crazy Little Thing Called Love (Official Video)-zO6D_BAuYCI.mp4",
+            "size": 13.737976832000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Crazy Little Thing Called Love (Official Video)-zO6D_BAuYCI.mp4?raw=true"
         },
         {
             "name": "Quemar Los Poemas-jQHakpMr3wk.mp4",
-            "path": "music_q/videos/Quemar Los Poemas-jQHakpMr3wk.mp4",
-            "size": 3.477021696
+            "path": "q/videos/Quemar Los Poemas-jQHakpMr3wk.mp4",
+            "size": 3.477021696,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quemar Los Poemas-jQHakpMr3wk.mp4?raw=true"
         },
         {
             "name": "LOS HERMANOS VEGA EL CABALLITO RELINCHON EN VIVO-DNQdRpk6n2E.mp4",
-            "path": "music_q/videos/LOS HERMANOS VEGA EL CABALLITO RELINCHON EN VIVO-DNQdRpk6n2E.mp4",
-            "size": 10.823164928
+            "path": "q/videos/LOS HERMANOS VEGA EL CABALLITO RELINCHON EN VIVO-DNQdRpk6n2E.mp4",
+            "size": 10.823164928,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/LOS HERMANOS VEGA EL CABALLITO RELINCHON EN VIVO-DNQdRpk6n2E.mp4?raw=true"
         },
         {
             "name": "La Tumba Será El Final-9EW1Qr2YBpU.mp4",
-            "path": "music_q/videos/La Tumba Será El Final-9EW1Qr2YBpU.mp4",
-            "size": 6.745733120000001
+            "path": "q/videos/La Tumba Será El Final-9EW1Qr2YBpU.mp4",
+            "size": 6.745733120000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/La Tumba Será El Final-9EW1Qr2YBpU.mp4?raw=true"
         },
         {
             "name": "quiero cantarte a ti chuy vega-wpevSAjPMHk.mp4",
-            "path": "music_q/videos/quiero cantarte a ti chuy vega-wpevSAjPMHk.mp4",
-            "size": 5.199043584
+            "path": "q/videos/quiero cantarte a ti chuy vega-wpevSAjPMHk.mp4",
+            "size": 5.199043584,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/quiero cantarte a ti chuy vega-wpevSAjPMHk.mp4?raw=true"
         },
         {
             "name": "Queen – Bohemian Rhapsody (Official Video Remastered)-fJ9rUzIMcZQ.mp4",
-            "path": "music_q/videos/Queen – Bohemian Rhapsody (Official Video Remastered)-fJ9rUzIMcZQ.mp4",
-            "size": 25.644044288
+            "path": "q/videos/Queen – Bohemian Rhapsody (Official Video Remastered)-fJ9rUzIMcZQ.mp4",
+            "size": 25.644044288,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen – Bohemian Rhapsody (Official Video Remastered)-fJ9rUzIMcZQ.mp4?raw=true"
         },
         {
             "name": "Quiero estar loco - Conjunto Primavera-dPTPvbMXC1g.mp4",
-            "path": "music_q/videos/Quiero estar loco - Conjunto Primavera-dPTPvbMXC1g.mp4",
-            "size": 9.211426816000001
+            "path": "q/videos/Quiero estar loco - Conjunto Primavera-dPTPvbMXC1g.mp4",
+            "size": 9.211426816000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quiero estar loco - Conjunto Primavera-dPTPvbMXC1g.mp4?raw=true"
         },
         {
             "name": "The Residents - The Booker Tease-ldp-c6lGLFE.mp4",
-            "path": "music_q/videos/The Residents - The Booker Tease-ldp-c6lGLFE.mp4",
-            "size": 1.699933184
+            "path": "q/videos/The Residents - The Booker Tease-ldp-c6lGLFE.mp4",
+            "size": 1.699933184,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/The Residents - The Booker Tease-ldp-c6lGLFE.mp4?raw=true"
         },
         {
             "name": "life is life- Europe (music video)-CZXAA5YQ0Js.mp4",
-            "path": "music_q/videos/life is life- Europe (music video)-CZXAA5YQ0Js.mp4",
-            "size": 8.023621632000001
+            "path": "q/videos/life is life- Europe (music video)-CZXAA5YQ0Js.mp4",
+            "size": 8.023621632000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/life is life- Europe (music video)-CZXAA5YQ0Js.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Corridos De Los Perez-nZhmqFapo5Y.mp4",
-            "path": "music_q/videos/Los Cadetes de Linares - Corridos De Los Perez-nZhmqFapo5Y.mp4",
-            "size": 5.761355776
+            "path": "q/videos/Los Cadetes de Linares - Corridos De Los Perez-nZhmqFapo5Y.mp4",
+            "size": 5.761355776,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Los Cadetes de Linares - Corridos De Los Perez-nZhmqFapo5Y.mp4?raw=true"
         },
         {
             "name": "Calle 13 - La Perla (Long Version) ft. Rubén Blades, La Chilinga-B0cVKmkYamU.mp4",
-            "path": "music_q/videos/Calle 13 - La Perla (Long Version) ft. Rubén Blades, La Chilinga-B0cVKmkYamU.mp4",
-            "size": 30.363300864000003
+            "path": "q/videos/Calle 13 - La Perla (Long Version) ft. Rubén Blades, La Chilinga-B0cVKmkYamU.mp4",
+            "size": 30.363300864000003,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Calle 13 - La Perla (Long Version) ft. Rubén Blades, La Chilinga-B0cVKmkYamU.mp4?raw=true"
         },
         {
             "name": "¿Qué Pasó Con La Paz--a9rxoJ3Q3N8.mp4",
-            "path": "music_q/videos/¿Qué Pasó Con La Paz--a9rxoJ3Q3N8.mp4",
-            "size": 1.4951096320000001
+            "path": "q/videos/¿Qué Pasó Con La Paz--a9rxoJ3Q3N8.mp4",
+            "size": 1.4951096320000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/¿Qué Pasó Con La Paz--a9rxoJ3Q3N8.mp4?raw=true"
         },
         {
             "name": "Canopée-TkIHG59Q3nY.mp4",
-            "path": "music_q/videos/Canopée-TkIHG59Q3nY.mp4",
-            "size": 9.706775552
+            "path": "q/videos/Canopée-TkIHG59Q3nY.mp4",
+            "size": 9.706775552,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Canopée-TkIHG59Q3nY.mp4?raw=true"
         },
         {
             "name": "Calle 13 - El Avión Se Cae (Cover Audio Video)-M_bC7kKEfKU.mp4",
-            "path": "music_q/videos/Calle 13 - El Avión Se Cae (Cover Audio Video)-M_bC7kKEfKU.mp4",
-            "size": 10.764938240000001
+            "path": "q/videos/Calle 13 - El Avión Se Cae (Cover Audio Video)-M_bC7kKEfKU.mp4",
+            "size": 10.764938240000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Calle 13 - El Avión Se Cae (Cover Audio Video)-M_bC7kKEfKU.mp4?raw=true"
         },
         {
             "name": "Questions of Travel-3nOativmdUc.mp4",
-            "path": "music_q/videos/Questions of Travel-3nOativmdUc.mp4",
-            "size": 7.547501568
+            "path": "q/videos/Questions of Travel-3nOativmdUc.mp4",
+            "size": 7.547501568,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Questions of Travel-3nOativmdUc.mp4?raw=true"
         },
         {
             "name": "Estigiä - IV Poder-yLYF7PYMI70.mp4",
-            "path": "music_q/videos/Estigiä - IV Poder-yLYF7PYMI70.mp4",
-            "size": 4.765712384
+            "path": "q/videos/Estigiä - IV Poder-yLYF7PYMI70.mp4",
+            "size": 4.765712384,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Estigiä - IV Poder-yLYF7PYMI70.mp4?raw=true"
         },
         {
             "name": "Queen - I Want It All (Official Video)-hFDcoX7s6rE.mp4",
-            "path": "music_q/videos/Queen - I Want It All (Official Video)-hFDcoX7s6rE.mp4",
-            "size": 16.343348224
+            "path": "q/videos/Queen - I Want It All (Official Video)-hFDcoX7s6rE.mp4",
+            "size": 16.343348224,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - I Want It All (Official Video)-hFDcoX7s6rE.mp4?raw=true"
         },
         {
             "name": "Children of Bodom - Warheart-F1mNKMgSzng.mp4",
-            "path": "music_q/videos/Children of Bodom - Warheart-F1mNKMgSzng.mp4",
-            "size": 9.705992192
+            "path": "q/videos/Children of Bodom - Warheart-F1mNKMgSzng.mp4",
+            "size": 9.705992192,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Children of Bodom - Warheart-F1mNKMgSzng.mp4?raw=true"
         },
         {
             "name": "Que la Dejen Ir al Baile Sola-oID7dcrLrKo.mp4",
-            "path": "music_q/videos/Que la Dejen Ir al Baile Sola-oID7dcrLrKo.mp4",
-            "size": 4.946920448
+            "path": "q/videos/Que la Dejen Ir al Baile Sola-oID7dcrLrKo.mp4",
+            "size": 4.946920448,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que la Dejen Ir al Baile Sola-oID7dcrLrKo.mp4?raw=true"
         },
         {
             "name": "London Dungeon-JrvHzIJ6zx8.mp4",
-            "path": "music_q/videos/London Dungeon-JrvHzIJ6zx8.mp4",
-            "size": 5.8161152000000005
+            "path": "q/videos/London Dungeon-JrvHzIJ6zx8.mp4",
+            "size": 5.8161152000000005,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/London Dungeon-JrvHzIJ6zx8.mp4?raw=true"
         },
         {
             "name": "Que Te Quede Claro - Los Herederos De Nuevo Leon-u7MdvMcL6Bo.mp4",
-            "path": "music_q/videos/Que Te Quede Claro - Los Herederos De Nuevo Leon-u7MdvMcL6Bo.mp4",
-            "size": 6.666460160000001
+            "path": "q/videos/Que Te Quede Claro - Los Herederos De Nuevo Leon-u7MdvMcL6Bo.mp4",
+            "size": 6.666460160000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Te Quede Claro - Los Herederos De Nuevo Leon-u7MdvMcL6Bo.mp4?raw=true"
         },
         {
             "name": "Conjunto Azabache - Mi Alegre Corazon-KV44hJtwkHk.mp4",
-            "path": "music_q/videos/Conjunto Azabache - Mi Alegre Corazon-KV44hJtwkHk.mp4",
-            "size": 5.793152
+            "path": "q/videos/Conjunto Azabache - Mi Alegre Corazon-KV44hJtwkHk.mp4",
+            "size": 5.793152,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Conjunto Azabache - Mi Alegre Corazon-KV44hJtwkHk.mp4?raw=true"
         },
         {
             "name": "El origen del nombre de El Mato A Un Policía Motorizado-uyGRwjuinOM.mp4",
-            "path": "music_q/videos/El origen del nombre de El Mato A Un Policía Motorizado-uyGRwjuinOM.mp4",
-            "size": 32.466352128000004
+            "path": "q/videos/El origen del nombre de El Mato A Un Policía Motorizado-uyGRwjuinOM.mp4",
+            "size": 32.466352128000004,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/El origen del nombre de El Mato A Un Policía Motorizado-uyGRwjuinOM.mp4?raw=true"
         },
         {
             "name": "Qué voy hacer-J9xxFnw5oLI.mp4",
-            "path": "music_q/videos/Qué voy hacer-J9xxFnw5oLI.mp4",
-            "size": 5.532987392000001
+            "path": "q/videos/Qué voy hacer-J9xxFnw5oLI.mp4",
+            "size": 5.532987392000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Qué voy hacer-J9xxFnw5oLI.mp4?raw=true"
         },
         {
             "name": "QUE SE LOS CUENTE LA LUNA-CADETES DE LINARES-UQ1DrfxF-Gw.mp4",
-            "path": "music_q/videos/QUE SE LOS CUENTE LA LUNA-CADETES DE LINARES-UQ1DrfxF-Gw.mp4",
-            "size": 7.876704256000001
+            "path": "q/videos/QUE SE LOS CUENTE LA LUNA-CADETES DE LINARES-UQ1DrfxF-Gw.mp4",
+            "size": 7.876704256000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/QUE SE LOS CUENTE LA LUNA-CADETES DE LINARES-UQ1DrfxF-Gw.mp4?raw=true"
         },
         {
             "name": "Que me arrastre el viento-8P72iS8cNgM.mp4",
-            "path": "music_q/videos/Que me arrastre el viento-8P72iS8cNgM.mp4",
-            "size": 11.4496512
+            "path": "q/videos/Que me arrastre el viento-8P72iS8cNgM.mp4",
+            "size": 11.4496512,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que me arrastre el viento-8P72iS8cNgM.mp4?raw=true"
         },
         {
             "name": "Queen - Bohemian Rhapsody (Lyrics In Spanish & English _ Letras en Inglés y en Español)-sBspSJWRT2E.mp4",
-            "path": "music_q/videos/Queen - Bohemian Rhapsody (Lyrics In Spanish & English _ Letras en Inglés y en Español)-sBspSJWRT2E.mp4",
-            "size": 26.642521088000002
+            "path": "q/videos/Queen - Bohemian Rhapsody (Lyrics In Spanish & English _ Letras en Inglés y en Español)-sBspSJWRT2E.mp4",
+            "size": 26.642521088000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Bohemian Rhapsody (Lyrics In Spanish & English _ Letras en Inglés y en Español)-sBspSJWRT2E.mp4?raw=true"
         },
         {
             "name": "QUIERO DORMIR CANSADO_ - EMMANUEL - 1980 (REMASTERIZADO) HD-vLyl3H7fRsE.mp4",
-            "path": "music_q/videos/QUIERO DORMIR CANSADO_ - EMMANUEL - 1980 (REMASTERIZADO) HD-vLyl3H7fRsE.mp4",
-            "size": 14.727430144000001
+            "path": "q/videos/QUIERO DORMIR CANSADO_ - EMMANUEL - 1980 (REMASTERIZADO) HD-vLyl3H7fRsE.mp4",
+            "size": 14.727430144000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/QUIERO DORMIR CANSADO_ - EMMANUEL - 1980 (REMASTERIZADO) HD-vLyl3H7fRsE.mp4?raw=true"
         },
         {
             "name": "Queen - Don't Stop Me Now (Official Video)-HgzGwKwLmgM.mp4",
-            "path": "music_q/videos/Queen - Don't Stop Me Now (Official Video)-HgzGwKwLmgM.mp4",
-            "size": 14.767162368000001
+            "path": "q/videos/Queen - Don't Stop Me Now (Official Video)-HgzGwKwLmgM.mp4",
+            "size": 14.767162368000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Don't Stop Me Now (Official Video)-HgzGwKwLmgM.mp4?raw=true"
         },
         {
             "name": "Elvis Presley - One-Sided Love Affair (1956)-8ALKELX5cNE.mp4",
-            "path": "music_q/videos/Elvis Presley - One-Sided Love Affair (1956)-8ALKELX5cNE.mp4",
-            "size": 3.8235832320000003
+            "path": "q/videos/Elvis Presley - One-Sided Love Affair (1956)-8ALKELX5cNE.mp4",
+            "size": 3.8235832320000003,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Elvis Presley - One-Sided Love Affair (1956)-8ALKELX5cNE.mp4?raw=true"
         },
         {
             "name": "QUE TAL TE VA SIN MI - RAPHAEL-WnYGOD8G3c8.mp4",
-            "path": "music_q/videos/QUE TAL TE VA SIN MI - RAPHAEL-WnYGOD8G3c8.mp4",
-            "size": 14.482787328
+            "path": "q/videos/QUE TAL TE VA SIN MI - RAPHAEL-WnYGOD8G3c8.mp4",
+            "size": 14.482787328,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/QUE TAL TE VA SIN MI - RAPHAEL-WnYGOD8G3c8.mp4?raw=true"
         },
         {
             "name": "Querida  -   Juan gabriel-EnX214riuPw.mp4",
-            "path": "music_q/videos/Querida  -   Juan gabriel-EnX214riuPw.mp4",
-            "size": 9.935285248000001
+            "path": "q/videos/Querida  -   Juan gabriel-EnX214riuPw.mp4",
+            "size": 9.935285248000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Querida  -   Juan gabriel-EnX214riuPw.mp4?raw=true"
         },
         {
             "name": "Que Te Vaya Bonito-BAsyWwFvjmA.mp4",
-            "path": "music_q/videos/Que Te Vaya Bonito-BAsyWwFvjmA.mp4",
-            "size": 3.0985246720000004
+            "path": "q/videos/Que Te Vaya Bonito-BAsyWwFvjmA.mp4",
+            "size": 3.0985246720000004,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Te Vaya Bonito-BAsyWwFvjmA.mp4?raw=true"
         },
         {
             "name": "Lenny Tavárez, Zion & Lennox - Me Enamora (Official Video)-VdBUlTD08C8.mp4",
-            "path": "music_q/videos/Lenny Tavárez, Zion & Lennox - Me Enamora (Official Video)-VdBUlTD08C8.mp4",
-            "size": 10.51224576
+            "path": "q/videos/Lenny Tavárez, Zion & Lennox - Me Enamora (Official Video)-VdBUlTD08C8.mp4",
+            "size": 10.51224576,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Lenny Tavárez, Zion & Lennox - Me Enamora (Official Video)-VdBUlTD08C8.mp4?raw=true"
         },
         {
             "name": "PESADO - PERDON QUE LO DIGA-k-2NXeqRm6o.mp4",
-            "path": "music_q/videos/PESADO - PERDON QUE LO DIGA-k-2NXeqRm6o.mp4",
-            "size": 4.755423232
+            "path": "q/videos/PESADO - PERDON QUE LO DIGA-k-2NXeqRm6o.mp4",
+            "size": 4.755423232,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/PESADO - PERDON QUE LO DIGA-k-2NXeqRm6o.mp4?raw=true"
         },
         {
             "name": "Quise Verte _ Kaos Etiliko _ Full Cover-LU1jshagGHQ.mp4",
-            "path": "music_q/videos/Quise Verte _ Kaos Etiliko _ Full Cover-LU1jshagGHQ.mp4",
-            "size": 11.473486848
+            "path": "q/videos/Quise Verte _ Kaos Etiliko _ Full Cover-LU1jshagGHQ.mp4",
+            "size": 11.473486848,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quise Verte _ Kaos Etiliko _ Full Cover-LU1jshagGHQ.mp4?raw=true"
         },
         {
             "name": "Cartel de Santa - Bombos y Tarolas-cYNBuvybwXY.mp4",
-            "path": "music_q/videos/Cartel de Santa - Bombos y Tarolas-cYNBuvybwXY.mp4",
-            "size": 25.966140416000002
+            "path": "q/videos/Cartel de Santa - Bombos y Tarolas-cYNBuvybwXY.mp4",
+            "size": 25.966140416000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Cartel de Santa - Bombos y Tarolas-cYNBuvybwXY.mp4?raw=true"
         },
         {
             "name": "SON CALLEJERO _ Soy Callejero-H3epqiAZpns.mp4",
-            "path": "music_q/videos/SON CALLEJERO _ Soy Callejero-H3epqiAZpns.mp4",
-            "size": 32.039805952
+            "path": "q/videos/SON CALLEJERO _ Soy Callejero-H3epqiAZpns.mp4",
+            "size": 32.039805952,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/SON CALLEJERO _ Soy Callejero-H3epqiAZpns.mp4?raw=true"
         },
         {
             "name": "Juntos Nuevamente-Hermanos Vega de Ramon Vega-JlqLzrd3JC4.mp4",
-            "path": "music_q/videos/Juntos Nuevamente-Hermanos Vega de Ramon Vega-JlqLzrd3JC4.mp4",
-            "size": 4.879466496
+            "path": "q/videos/Juntos Nuevamente-Hermanos Vega de Ramon Vega-JlqLzrd3JC4.mp4",
+            "size": 4.879466496,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Juntos Nuevamente-Hermanos Vega de Ramon Vega-JlqLzrd3JC4.mp4?raw=true"
         },
         {
             "name": "Querer y perder-NcI7Q92scoY.mp4",
-            "path": "music_q/videos/Querer y perder-NcI7Q92scoY.mp4",
-            "size": 6.866966528000001
+            "path": "q/videos/Querer y perder-NcI7Q92scoY.mp4",
+            "size": 6.866966528000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Querer y perder-NcI7Q92scoY.mp4?raw=true"
         },
         {
             "name": "LP - Tightrope [Official Music Video]-kECZnPrIufo.mp4",
-            "path": "music_q/videos/LP - Tightrope [Official Music Video]-kECZnPrIufo.mp4",
-            "size": 15.926730752000001
+            "path": "q/videos/LP - Tightrope [Official Music Video]-kECZnPrIufo.mp4",
+            "size": 15.926730752000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/LP - Tightrope [Official Music Video]-kECZnPrIufo.mp4?raw=true"
         },
         {
             "name": "Los Herederos de Nuevo Leon - No Lo Supiste Hacer ( Audio Oficial )-Ysr7825YWdQ.mp4",
-            "path": "music_q/videos/Los Herederos de Nuevo Leon - No Lo Supiste Hacer ( Audio Oficial )-Ysr7825YWdQ.mp4",
-            "size": 8.636806144000001
+            "path": "q/videos/Los Herederos de Nuevo Leon - No Lo Supiste Hacer ( Audio Oficial )-Ysr7825YWdQ.mp4",
+            "size": 8.636806144000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Los Herederos de Nuevo Leon - No Lo Supiste Hacer ( Audio Oficial )-Ysr7825YWdQ.mp4?raw=true"
         },
         {
             "name": "Queen - We Are The Champions (Official Live Video)-KXw8CRapg7k.mp4",
-            "path": "music_q/videos/Queen - We Are The Champions (Official Live Video)-KXw8CRapg7k.mp4",
-            "size": 11.01771776
+            "path": "q/videos/Queen - We Are The Champions (Official Live Video)-KXw8CRapg7k.mp4",
+            "size": 11.01771776,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - We Are The Champions (Official Live Video)-KXw8CRapg7k.mp4?raw=true"
         },
         {
             "name": "La Coyota - C.S.-aeFnQll2s0k.mp4",
-            "path": "music_q/videos/La Coyota - C.S.-aeFnQll2s0k.mp4",
-            "size": 5.499880448000001
+            "path": "q/videos/La Coyota - C.S.-aeFnQll2s0k.mp4",
+            "size": 5.499880448000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/La Coyota - C.S.-aeFnQll2s0k.mp4?raw=true"
         },
         {
             "name": "Quite A Picture ~ Bob Crewe (1960)-5OEpGFLvJAo.mp4",
-            "path": "music_q/videos/Quite A Picture ~ Bob Crewe (1960)-5OEpGFLvJAo.mp4",
-            "size": 7.9712389120000005
+            "path": "q/videos/Quite A Picture ~ Bob Crewe (1960)-5OEpGFLvJAo.mp4",
+            "size": 7.9712389120000005,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quite A Picture ~ Bob Crewe (1960)-5OEpGFLvJAo.mp4?raw=true"
         },
         {
             "name": "Quisiera Remix - Rafa Pabon x Maikel DelaCalle x Justin Quiles ft Jerry Di x Jambene-EOmJVYjMsKU.mp4",
-            "path": "music_q/videos/Quisiera Remix - Rafa Pabon x Maikel DelaCalle x Justin Quiles ft Jerry Di x Jambene-EOmJVYjMsKU.mp4",
-            "size": 15.64051968
+            "path": "q/videos/Quisiera Remix - Rafa Pabon x Maikel DelaCalle x Justin Quiles ft Jerry Di x Jambene-EOmJVYjMsKU.mp4",
+            "size": 15.64051968,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quisiera Remix - Rafa Pabon x Maikel DelaCalle x Justin Quiles ft Jerry Di x Jambene-EOmJVYjMsKU.mp4?raw=true"
         },
         {
             "name": "The Chemical Brothers - Another World (Official Music Video)-fhzkeFiXfPI.mp4",
-            "path": "music_q/videos/The Chemical Brothers - Another World (Official Music Video)-fhzkeFiXfPI.mp4",
-            "size": 31.230482432000002
+            "path": "q/videos/The Chemical Brothers - Another World (Official Music Video)-fhzkeFiXfPI.mp4",
+            "size": 31.230482432000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/The Chemical Brothers - Another World (Official Music Video)-fhzkeFiXfPI.mp4?raw=true"
         },
         {
             "name": "Estado Polizial-UQMRD1zasNo.mp4",
-            "path": "music_q/videos/Estado Polizial-UQMRD1zasNo.mp4",
-            "size": 2.156201984
+            "path": "q/videos/Estado Polizial-UQMRD1zasNo.mp4",
+            "size": 2.156201984,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Estado Polizial-UQMRD1zasNo.mp4?raw=true"
         },
         {
             "name": "Qué necesario es el rock & roll-S5jgpGVsxeM.mp4",
-            "path": "music_q/videos/Qué necesario es el rock & roll-S5jgpGVsxeM.mp4",
-            "size": 13.99205888
+            "path": "q/videos/Qué necesario es el rock & roll-S5jgpGVsxeM.mp4",
+            "size": 13.99205888,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Qué necesario es el rock & roll-S5jgpGVsxeM.mp4?raw=true"
         },
         {
             "name": "¿Quiénes somos ¿De dónde venimos ¿A dónde vamos-j_cOUWdgmSU.mp4",
-            "path": "music_q/videos/¿Quiénes somos ¿De dónde venimos ¿A dónde vamos-j_cOUWdgmSU.mp4",
-            "size": 6.199209984
+            "path": "q/videos/¿Quiénes somos ¿De dónde venimos ¿A dónde vamos-j_cOUWdgmSU.mp4",
+            "size": 6.199209984,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/¿Quiénes somos ¿De dónde venimos ¿A dónde vamos-j_cOUWdgmSU.mp4?raw=true"
         },
         {
             "name": "Conflict - Increase The Pressure (1984)-AHXvMulXG3s.mp4",
-            "path": "music_q/videos/Conflict - Increase The Pressure (1984)-AHXvMulXG3s.mp4",
-            "size": 2.70089728
+            "path": "q/videos/Conflict - Increase The Pressure (1984)-AHXvMulXG3s.mp4",
+            "size": 2.70089728,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Conflict - Increase The Pressure (1984)-AHXvMulXG3s.mp4?raw=true"
         },
         {
             "name": "Lemolo - 'High Tide' [OFFICIAL AUDIO]-Bf77p-K2WWc.mp4",
-            "path": "music_q/videos/Lemolo - 'High Tide' [OFFICIAL AUDIO]-Bf77p-K2WWc.mp4",
-            "size": 9.340466176000001
+            "path": "q/videos/Lemolo - 'High Tide' [OFFICIAL AUDIO]-Bf77p-K2WWc.mp4",
+            "size": 9.340466176000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Lemolo - 'High Tide' [OFFICIAL AUDIO]-Bf77p-K2WWc.mp4?raw=true"
         },
         {
             "name": "El mecatito - Los de Sonora - VIDEO EXCLUSIVO 2019-c9b9pxVOlHo.mp4",
-            "path": "music_q/videos/El mecatito - Los de Sonora - VIDEO EXCLUSIVO 2019-c9b9pxVOlHo.mp4",
-            "size": 23.428964352
+            "path": "q/videos/El mecatito - Los de Sonora - VIDEO EXCLUSIVO 2019-c9b9pxVOlHo.mp4",
+            "size": 23.428964352,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/El mecatito - Los de Sonora - VIDEO EXCLUSIVO 2019-c9b9pxVOlHo.mp4?raw=true"
         },
         {
             "name": "los herederos de nuevo leon morena morenita-d_g-cLFsAq4.mp4",
-            "path": "music_q/videos/los herederos de nuevo leon morena morenita-d_g-cLFsAq4.mp4",
-            "size": 4.483213312
+            "path": "q/videos/los herederos de nuevo leon morena morenita-d_g-cLFsAq4.mp4",
+            "size": 4.483213312,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/los herederos de nuevo leon morena morenita-d_g-cLFsAq4.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - El Palomito-nhGPMVTahGE.mp4",
-            "path": "music_q/videos/Los Cadetes de Linares - El Palomito-nhGPMVTahGE.mp4",
-            "size": 5.522048000000001
+            "path": "q/videos/Los Cadetes de Linares - El Palomito-nhGPMVTahGE.mp4",
+            "size": 5.522048000000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Los Cadetes de Linares - El Palomito-nhGPMVTahGE.mp4?raw=true"
         },
         {
             "name": "Quiero tenerte-NU2OIvL0Orw.mp4",
-            "path": "music_q/videos/Quiero tenerte-NU2OIvL0Orw.mp4",
-            "size": 6.154546176
+            "path": "q/videos/Quiero tenerte-NU2OIvL0Orw.mp4",
+            "size": 6.154546176,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quiero tenerte-NU2OIvL0Orw.mp4?raw=true"
         },
         {
             "name": "Leonardo Favio - Ella ya me olvido-qlM_U1T8D2M.mp4",
-            "path": "music_q/videos/Leonardo Favio - Ella ya me olvido-qlM_U1T8D2M.mp4",
-            "size": 9.230292992
+            "path": "q/videos/Leonardo Favio - Ella ya me olvido-qlM_U1T8D2M.mp4",
+            "size": 9.230292992,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Leonardo Favio - Ella ya me olvido-qlM_U1T8D2M.mp4?raw=true"
         },
         {
             "name": "Que Rechine la Carreta-Ih6WeNNDOGU.mp4",
-            "path": "music_q/videos/Que Rechine la Carreta-Ih6WeNNDOGU.mp4",
-            "size": 8.561250304000001
+            "path": "q/videos/Que Rechine la Carreta-Ih6WeNNDOGU.mp4",
+            "size": 8.561250304000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Rechine la Carreta-Ih6WeNNDOGU.mp4?raw=true"
         },
         {
             "name": "Que Dios Perdone Mi Madre-SiAKMfBuO-0.mp4",
-            "path": "music_q/videos/Que Dios Perdone Mi Madre-SiAKMfBuO-0.mp4",
-            "size": 5.271885824
+            "path": "q/videos/Que Dios Perdone Mi Madre-SiAKMfBuO-0.mp4",
+            "size": 5.271885824,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Dios Perdone Mi Madre-SiAKMfBuO-0.mp4?raw=true"
         },
         {
             "name": "Que Te Importa-GnPsloWTs1w.mp4",
-            "path": "music_q/videos/Que Te Importa-GnPsloWTs1w.mp4",
-            "size": 8.538135552
+            "path": "q/videos/Que Te Importa-GnPsloWTs1w.mp4",
+            "size": 8.538135552,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Te Importa-GnPsloWTs1w.mp4?raw=true"
         },
         {
             "name": "Stevie Ray Vaughan & Double Trouble - Love Struck Baby (Video)-nnbnRWHDFpw.mp4",
-            "path": "music_q/videos/Stevie Ray Vaughan & Double Trouble - Love Struck Baby (Video)-nnbnRWHDFpw.mp4",
-            "size": 13.177322496
+            "path": "q/videos/Stevie Ray Vaughan & Double Trouble - Love Struck Baby (Video)-nnbnRWHDFpw.mp4",
+            "size": 13.177322496,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Stevie Ray Vaughan & Double Trouble - Love Struck Baby (Video)-nnbnRWHDFpw.mp4?raw=true"
         },
         {
             "name": "Pesado - Mirando La Lluvia (Sizzur's Jamz)-f8yNBikj6Dc.mp4",
-            "path": "music_q/videos/Pesado - Mirando La Lluvia (Sizzur's Jamz)-f8yNBikj6Dc.mp4",
-            "size": 3.1181578240000003
+            "path": "q/videos/Pesado - Mirando La Lluvia (Sizzur's Jamz)-f8yNBikj6Dc.mp4",
+            "size": 3.1181578240000003,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Pesado - Mirando La Lluvia (Sizzur's Jamz)-f8yNBikj6Dc.mp4?raw=true"
         },
         {
             "name": "Queen - Another One Bites the Dust (Official Video)-rY0WxgSXdEE.mp4",
-            "path": "music_q/videos/Queen - Another One Bites the Dust (Official Video)-rY0WxgSXdEE.mp4",
-            "size": 14.642259968000001
+            "path": "q/videos/Queen - Another One Bites the Dust (Official Video)-rY0WxgSXdEE.mp4",
+            "size": 14.642259968000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Another One Bites the Dust (Official Video)-rY0WxgSXdEE.mp4?raw=true"
         },
         {
             "name": "Quisiera ser Alcohol - Caifanes-dyQKS_51j7M.mp4",
-            "path": "music_q/videos/Quisiera ser Alcohol - Caifanes-dyQKS_51j7M.mp4",
-            "size": 5.367467008
+            "path": "q/videos/Quisiera ser Alcohol - Caifanes-dyQKS_51j7M.mp4",
+            "size": 5.367467008,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quisiera ser Alcohol - Caifanes-dyQKS_51j7M.mp4?raw=true"
         },
         {
             "name": "SOLO TU  ( Camilo Sesto - 1976 ) HD-eEtV_072RT8.mp4",
-            "path": "music_q/videos/SOLO TU  ( Camilo Sesto - 1976 ) HD-eEtV_072RT8.mp4",
-            "size": 15.505893376000001
+            "path": "q/videos/SOLO TU  ( Camilo Sesto - 1976 ) HD-eEtV_072RT8.mp4",
+            "size": 15.505893376000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/SOLO TU  ( Camilo Sesto - 1976 ) HD-eEtV_072RT8.mp4?raw=true"
         },
         {
             "name": "Queen - Somebody To Love (Official Video)-kijpcUv-b8M.mp4",
-            "path": "music_q/videos/Queen - Somebody To Love (Official Video)-kijpcUv-b8M.mp4",
-            "size": 27.596171264000002
+            "path": "q/videos/Queen - Somebody To Love (Official Video)-kijpcUv-b8M.mp4",
+            "size": 27.596171264000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Somebody To Love (Official Video)-kijpcUv-b8M.mp4?raw=true"
         },
         {
             "name": "Dejame Decirte-9ss37pOWX5k.mp4",
-            "path": "music_q/videos/Dejame Decirte-9ss37pOWX5k.mp4",
-            "size": 4.8990361600000005
+            "path": "q/videos/Dejame Decirte-9ss37pOWX5k.mp4",
+            "size": 4.8990361600000005,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Dejame Decirte-9ss37pOWX5k.mp4?raw=true"
         },
         {
             "name": "Queen - We Will Rock You (Official Video)--tJYN-eG1zk.mp4",
-            "path": "music_q/videos/Queen - We Will Rock You (Official Video)--tJYN-eG1zk.mp4",
-            "size": 10.921034752
+            "path": "q/videos/Queen - We Will Rock You (Official Video)--tJYN-eG1zk.mp4",
+            "size": 10.921034752,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - We Will Rock You (Official Video)--tJYN-eG1zk.mp4?raw=true"
         },
         {
             "name": "Ska-P - La Mosca Cojonera-GQ8b9SuTp5A.mp4",
-            "path": "music_q/videos/Ska-P - La Mosca Cojonera-GQ8b9SuTp5A.mp4",
-            "size": 6.227824640000001
+            "path": "q/videos/Ska-P - La Mosca Cojonera-GQ8b9SuTp5A.mp4",
+            "size": 6.227824640000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Ska-P - La Mosca Cojonera-GQ8b9SuTp5A.mp4?raw=true"
         },
         {
             "name": "Que te quieran mas que yo-Marco Antonio Solis-ZHAe1oa0WWc.mp4",
-            "path": "music_q/videos/Que te quieran mas que yo-Marco Antonio Solis-ZHAe1oa0WWc.mp4",
-            "size": 17.089496064000002
+            "path": "q/videos/Que te quieran mas que yo-Marco Antonio Solis-ZHAe1oa0WWc.mp4",
+            "size": 17.089496064000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que te quieran mas que yo-Marco Antonio Solis-ZHAe1oa0WWc.mp4?raw=true"
         },
         {
             "name": "Michael Bublé - Help Me Make It Through The Night (feat. Loren Allred) [Official Audio]-0gXqvwaR4OU.mp4",
-            "path": "music_q/videos/Michael Bublé - Help Me Make It Through The Night (feat. Loren Allred) [Official Audio]-0gXqvwaR4OU.mp4",
-            "size": 6.77406208
+            "path": "q/videos/Michael Bublé - Help Me Make It Through The Night (feat. Loren Allred) [Official Audio]-0gXqvwaR4OU.mp4",
+            "size": 6.77406208,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Michael Bublé - Help Me Make It Through The Night (feat. Loren Allred) [Official Audio]-0gXqvwaR4OU.mp4?raw=true"
         },
         {
             "name": "Elvis Presley - I Got A Woman (1956)-uKtOi0ltsuc.mp4",
-            "path": "music_q/videos/Elvis Presley - I Got A Woman (1956)-uKtOi0ltsuc.mp4",
-            "size": 4.354476032
+            "path": "q/videos/Elvis Presley - I Got A Woman (1956)-uKtOi0ltsuc.mp4",
+            "size": 4.354476032,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Elvis Presley - I Got A Woman (1956)-uKtOi0ltsuc.mp4?raw=true"
         },
         {
             "name": "Qué Está Pasando-daW5gMfbEa8.mp4",
-            "path": "music_q/videos/Qué Está Pasando-daW5gMfbEa8.mp4",
-            "size": 7.021988864000001
+            "path": "q/videos/Qué Está Pasando-daW5gMfbEa8.mp4",
+            "size": 7.021988864000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Qué Está Pasando-daW5gMfbEa8.mp4?raw=true"
         },
         {
             "name": "Love Is All We Need ~ Tommy Edwards (1958) (w_ echo)-Y3qlTalVcRg.mp4",
-            "path": "music_q/videos/Love Is All We Need ~ Tommy Edwards (1958) (w_ echo)-Y3qlTalVcRg.mp4",
-            "size": 8.339418112
+            "path": "q/videos/Love Is All We Need ~ Tommy Edwards (1958) (w_ echo)-Y3qlTalVcRg.mp4",
+            "size": 8.339418112,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Love Is All We Need ~ Tommy Edwards (1958) (w_ echo)-Y3qlTalVcRg.mp4?raw=true"
         },
         {
             "name": "¿Quién Es El Pendejo Más Grande--GNhp6NHht68.mp4",
-            "path": "music_q/videos/¿Quién Es El Pendejo Más Grande--GNhp6NHht68.mp4",
-            "size": 1.182275584
+            "path": "q/videos/¿Quién Es El Pendejo Más Grande--GNhp6NHht68.mp4",
+            "size": 1.182275584,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/¿Quién Es El Pendejo Más Grande--GNhp6NHht68.mp4?raw=true"
         },
         {
             "name": "LOS CADETES DE LINARES- LLORE A MI MADRE-TqtqmZnexJI.mp4",
-            "path": "music_q/videos/LOS CADETES DE LINARES- LLORE A MI MADRE-TqtqmZnexJI.mp4",
-            "size": 3.89131264
+            "path": "q/videos/LOS CADETES DE LINARES- LLORE A MI MADRE-TqtqmZnexJI.mp4",
+            "size": 3.89131264,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/LOS CADETES DE LINARES- LLORE A MI MADRE-TqtqmZnexJI.mp4?raw=true"
         },
         {
             "name": "Que Chulos Ojos-Z9K-_3ds9F0.mp4",
-            "path": "music_q/videos/Que Chulos Ojos-Z9K-_3ds9F0.mp4",
-            "size": 6.40779776
+            "path": "q/videos/Que Chulos Ojos-Z9K-_3ds9F0.mp4",
+            "size": 6.40779776,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Chulos Ojos-Z9K-_3ds9F0.mp4?raw=true"
         },
         {
             "name": "Quiero ver - Café Tacuba-cB7gPzorDz0.mp4",
-            "path": "music_q/videos/Quiero ver - Café Tacuba-cB7gPzorDz0.mp4",
-            "size": 9.93235456
+            "path": "q/videos/Quiero ver - Café Tacuba-cB7gPzorDz0.mp4",
+            "size": 9.93235456,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quiero ver - Café Tacuba-cB7gPzorDz0.mp4?raw=true"
         },
         {
             "name": "Quisiera Decir Tu Nombre - Jose Luis Perales-yEE_BsbfRZw.mp4",
-            "path": "music_q/videos/Quisiera Decir Tu Nombre - Jose Luis Perales-yEE_BsbfRZw.mp4",
-            "size": 9.525395456
+            "path": "q/videos/Quisiera Decir Tu Nombre - Jose Luis Perales-yEE_BsbfRZw.mp4",
+            "size": 9.525395456,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quisiera Decir Tu Nombre - Jose Luis Perales-yEE_BsbfRZw.mp4?raw=true"
         },
         {
             "name": "Quisiera-DcoMkmoa0gw.mp4",
-            "path": "music_q/videos/Quisiera-DcoMkmoa0gw.mp4",
-            "size": 5.662057472000001
+            "path": "q/videos/Quisiera-DcoMkmoa0gw.mp4",
+            "size": 5.662057472000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quisiera-DcoMkmoa0gw.mp4?raw=true"
         },
         {
             "name": "Que Pasara-XVG7z2ccHG4.mp4",
-            "path": "music_q/videos/Que Pasara-XVG7z2ccHG4.mp4",
-            "size": 6.102679552000001
+            "path": "q/videos/Que Pasara-XVG7z2ccHG4.mp4",
+            "size": 6.102679552000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Pasara-XVG7z2ccHG4.mp4?raw=true"
         },
         {
             "name": "manuel mijares corazon salvaje-XEAvV89W_7Y.mp4",
-            "path": "music_q/videos/manuel mijares corazon salvaje-XEAvV89W_7Y.mp4",
-            "size": 10.178786304
+            "path": "q/videos/manuel mijares corazon salvaje-XEAvV89W_7Y.mp4",
+            "size": 10.178786304,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/manuel mijares corazon salvaje-XEAvV89W_7Y.mp4?raw=true"
         },
         {
             "name": "Queen - Tear It Up (Official Lyric Video)-tXf5neOg5Y8.mp4",
-            "path": "music_q/videos/Queen - Tear It Up (Official Lyric Video)-tXf5neOg5Y8.mp4",
-            "size": 8.799694848
+            "path": "q/videos/Queen - Tear It Up (Official Lyric Video)-tXf5neOg5Y8.mp4",
+            "size": 8.799694848,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Queen - Tear It Up (Official Lyric Video)-tXf5neOg5Y8.mp4?raw=true"
         },
         {
             "name": "Mirando tus lindos ojos-oneBxv-hNpk.mp4",
-            "path": "music_q/videos/Mirando tus lindos ojos-oneBxv-hNpk.mp4",
-            "size": 7.4942668800000005
+            "path": "q/videos/Mirando tus lindos ojos-oneBxv-hNpk.mp4",
+            "size": 7.4942668800000005,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Mirando tus lindos ojos-oneBxv-hNpk.mp4?raw=true"
         },
         {
             "name": "calle 13 pal norte ft orishas-Aj1hViB_jOo.mp4",
-            "path": "music_q/videos/calle 13 pal norte ft orishas-Aj1hViB_jOo.mp4",
-            "size": 12.479094784
+            "path": "q/videos/calle 13 pal norte ft orishas-Aj1hViB_jOo.mp4",
+            "size": 12.479094784,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/calle 13 pal norte ft orishas-Aj1hViB_jOo.mp4?raw=true"
         },
         {
             "name": "Que Turututu, Ay Que Tururu-QbFQeeo4QQE.mp4",
-            "path": "music_q/videos/Que Turututu, Ay Que Tururu-QbFQeeo4QQE.mp4",
-            "size": 5.420195840000001
+            "path": "q/videos/Que Turututu, Ay Que Tururu-QbFQeeo4QQE.mp4",
+            "size": 5.420195840000001,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Que Turututu, Ay Que Tururu-QbFQeeo4QQE.mp4?raw=true"
         },
         {
             "name": "Ska-P - Simpatico Holgazán-Vz6ZjUyCOv8.mp4",
-            "path": "music_q/videos/Ska-P - Simpatico Holgazán-Vz6ZjUyCOv8.mp4",
-            "size": 6.692054016
+            "path": "q/videos/Ska-P - Simpatico Holgazán-Vz6ZjUyCOv8.mp4",
+            "size": 6.692054016,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Ska-P - Simpatico Holgazán-Vz6ZjUyCOv8.mp4?raw=true"
         },
         {
             "name": "Quiero Que Vuelvas-KI7gqAgaAN0.mp4",
-            "path": "music_q/videos/Quiero Que Vuelvas-KI7gqAgaAN0.mp4",
-            "size": 5.097168896
+            "path": "q/videos/Quiero Que Vuelvas-KI7gqAgaAN0.mp4",
+            "size": 5.097168896,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Quiero Que Vuelvas-KI7gqAgaAN0.mp4?raw=true"
         },
         {
             "name": "Sash!  - Ecuador (Official Video)-9cQlVww0zKo.mp4",
-            "path": "music_q/videos/Sash!  - Ecuador (Official Video)-9cQlVww0zKo.mp4",
-            "size": 16.878091264000002
+            "path": "q/videos/Sash!  - Ecuador (Official Video)-9cQlVww0zKo.mp4",
+            "size": 16.878091264000002,
+            "url": "https://github.com/circuitalmynds/music_q/blob/main/videos/Sash!  - Ecuador (Official Video)-9cQlVww0zKo.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 967.1163002880002
 }
